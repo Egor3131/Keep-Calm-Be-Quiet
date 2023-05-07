@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 410ab7b105ec6634fb062482d2e681e0, type: 3}
+  m_Name: SoundsSO
+  m_EditorClassIdentifier: 
+  walking:
+  - {fileID: 8300000, guid: ec03718dc6de67548be9809bb3fd280f, type: 3}
+  - {fileID: 8300000, guid: 19c18b923663f1545b48061605304a59, type: 3}
+  - {fileID: 8300000, guid: 56af8082d4a00774a95714f944ce36c9, type: 3}
+  - {fileID: 8300000, guid: a654b432fe57230409232d177bedc907, type: 3}
+  - {fileID: 8300000, guid: 6c33061a0d3a8e9459695263706b1471, type: 3}
+  screamingMonster:
+  - {fileID: 8300000, guid: af91e133d3cf25e46b4266b0d5c780c3, type: 3}
+  - {fileID: 8300000, guid: d02828fc223f540468571788dba71470, type: 3}
+  - {fileID: 8300000, guid: 641ba5a89f578784889e2d0abcd9aa5a, type: 3}
+  monsterWalking:
+  - {fileID: 8300000, guid: 7c5be21cc2cc58c498450ad8383d7cea, type: 3}
+  - {fileID: 8300000, guid: 7694527058eaa8744bd582ceb03d4282, type: 3}
+  - {fileID: 8300000, guid: 6438cc1c3e3421e47a7766897c4b3ede, type: 3}
+  - {fileID: 8300000, guid: 3b9e8a8438f6f2347923a481c74ce907, type: 3}
+  - {fileID: 8300000, guid: 556beb68fd5d5cf4581854bf0fe33710, type: 3}
+  buttonClick:
+  - {fileID: 8300000, guid: 9bd0cc3360215684ab3d06cdd2a00535, type: 3}
+  - {fileID: 8300000, guid: 7a96a80b005f42e46a6163610b5f3d8b, type: 3}
+  - {fileID: 8300000, guid: 25f7fbbe7186d304db1fe8044f8a0442, type: 3}
+  - {fileID: 8300000, guid: 277cd6c22ac871a43afc3ff56e318eac, type: 3}
+  typing:
+  - {fileID: 8300000, guid: 340c662152731e445912894230a889cb, type: 3}
+  - {fileID: 8300000, guid: 1ee87d9b73ac31f4e9831fa751f3bafe, type: 3}
+  - {fileID: 8300000, guid: ee466ed093478a14aa11a6382f140c04, type: 3}
+  - {fileID: 8300000, guid: 18ca9858dae73514e88829bad44747c6, type: 3}
+  - {fileID: 8300000, guid: 208416481ac0f4c40839e594f5af7fef, type: 3}
+  - {fileID: 8300000, guid: 5964b00cc6582384780673737b1c970e, type: 3}
+  ringSchoolScene: {fileID: 8300000, guid: e312432aaf3c5484abd9b7da01f1755b, type: 3}
+  screamSchoolScene: {fileID: 8300000, guid: 629d9487bdaf9e64ba683dd761f34918, type: 3}
+  laughSchoolScene: {fileID: 8300000, guid: 7765115b5ecd80946a79fb24436e4fff, type: 3}
+  key: {fileID: 8300000, guid: 2c594c16b09d50f488f94dc1f2e3367b, type: 3}
+  doorOpen: {fileID: 8300000, guid: f18bf2d37d2d88d49894dbdc275c5c61, type: 3}
+  ambience: {fileID: 8300000, guid: 85a37c188ea440848b18683b7340db94, type: 3}
+  flashLight: {fileID: 8300000, guid: dc0fd46f84a39744494372e209d9fc11, type: 3}
+  screamingPlayer: {fileID: 8300000, guid: 9f68a4adbe67c7a46bff962382d041b2, type: 3}
+  looting: {fileID: 0}
+  bookCollected: {fileID: 8300000, guid: a995a1ecdebcd8946b582aa3a065f1c4, type: 3}
+  batteryDied: {fileID: 8300000, guid: bd89336d4aa62ef4dadebc5b146282af, type: 3}
+  screamer: {fileID: 8300000, guid: e68e8f9601cec7a41a7bc9acae31b75e, type: 3}

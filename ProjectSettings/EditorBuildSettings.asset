@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 808f41fc116f60343b931c174e80c7a8
+  - enabled: 1
+    path: Assets/Scenes/SchoolCutscene.unity
+    guid: d8c374cf1ec524c4b9691a6fd6a358c8
+  - enabled: 1
+    path: Assets/Scenes/StartCutScene.unity
+    guid: f41035e53d296f54dafef2acf55a86c5
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: b574c02f168378e4ea4aaa8407c6b720
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1e26239032a6d6042b3b7ca50aefb986, type: 2}
