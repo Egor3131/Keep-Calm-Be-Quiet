@@ -350,7 +350,7 @@ MonoBehaviour:
   walkSpeed: 3
   sprintSpeed: 5
   standartViewDistance: 60
-  viewDistanceFlashLight: 80
+  viewDistanceFlashLight: 75
   target: {fileID: 0}
   animator: {fileID: 4332223412598511403}
 --- !u!114 &3838956542468209841

@@ -159,7 +159,7 @@ public class Enemy : MonoBehaviour, IHear
         isIdlingStarted = true;
 
         aiPath.maxSpeed = walkSpeed;
-        randomPos = GetRandomPosition(transform.position, 10, 5);
+        randomPos = GetRandomPosition(transform.position, 10, 4);
         seeker.StartPath(transform.position, randomPos);
 
         yield return new WaitForSeconds(2.5f);
