@@ -123,7 +123,7 @@ public class GameManager : MonoBehaviour
         Destroy(Player.instance.gameObject);
         jumpScareFace.transform.DOShakePosition(2, 2, 20);
         jumpScareFace.transform.DOScale(new Vector3(1.5f, 1.5f, 1.5f), 0.5f);
-        yield return new WaitForSeconds(9f);
+        yield return new WaitForSeconds(15f);
         if (!hasChoosenButton)
         {
             SceneLoader.instance.StartLoadinScene(0);

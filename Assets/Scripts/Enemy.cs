@@ -17,8 +17,8 @@ public class Enemy : MonoBehaviour, IHear
 {
     [SerializeField] float walkSpeed = 3f;
     [SerializeField] float sprintSpeed = 4f;
-    [SerializeField] float standartViewDistance = 40f;
-    [SerializeField] float viewDistanceFlashLight = 50f;
+    [SerializeField] float standartViewDistance = 50f;
+    [SerializeField] float viewDistanceFlashLight = 70f;
     [SerializeField] Transform target;
     [SerializeField] Animator animator;
     private float viewDistance;

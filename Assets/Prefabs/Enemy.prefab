@@ -347,11 +347,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6fb03aaa8cdf9d44866f2735d7c9573, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementRange: 5
   walkSpeed: 3
   sprintSpeed: 5
-  standartViewDistance: 100
-  viewDistanceFlashLight: 150
+  standartViewDistance: 60
+  viewDistanceFlashLight: 80
   target: {fileID: 0}
   animator: {fileID: 4332223412598511403}
 --- !u!114 &3838956542468209841
