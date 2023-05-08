@@ -1,11 +1,11 @@
-CONTROLS:
+🕹️CONTROLS:🕹️
 
 *WASD - walk
 *SHIFT - sprint
 *E - flashlight turn on / off , interact with objects 
 
 
-GAME MECHANICS:
+💀GAME MECHANICS:💀
 
 *ENEMY SOUND DETECTION: Be careful not to make too much noise, as enemies can hear everything in the game. Use stealth and strategic movement to survive longer and find the book.
 *STRESS: Your character is suffering from a mysterious illness that causes him to shout when stressed. Keep him calm  by using his father's birthday present. Remember, a stressed character is a loud character, which can attract unwanted attention.
